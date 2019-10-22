@@ -1,0 +1,77 @@
+inode_bitmap: 1
+data_bitmap[0] : 1
+data_bitmap[1] : 0
+data_bitmap[2] : 0
+data_bitmap[3] : 0
+data_bitmap[4] : 0
+data_bitmap[5] : 0
+data_bitmap[6] : 0
+data_bitmap[7] : 0
+data_bitmap[8] : 0
+data_bitmap[9] : 0
+type: 1
+size: 64
+datablocks[0]: 0
+datablocks[1]: 21923
+datablocks[2]: 1230633760
+datablocks[3]: 32732
+datablocks[4]: 0
+datablocks[5]: 0
+datablocks[6]: -2107280656
+datablocks[7]: 21923
+datablocks[8]: -2107281264
+datablocks[9]: 21923
+datablocks[10]: 1739452848
+datablocks[11]: 32766
+datablocks[12]: 1510749952
+datablocks[13]: -2137106907
+datablocks[14]: 537314000
+datablocks[15]: 21952
+datablocks[16]: 996727659
+datablocks[17]: 32514
+datablocks[18]: 998540504
+datablocks[19]: 32514
+datablocks[20]: 1739452856
+datablocks[21]: 32766
+datablocks[22]: 998335528
+datablocks[23]: 1
+datablocks[24]: 537313653
+datablocks[25]: 21952
+datablocks[26]: 0
+datablocks[27]: 0
+datablocks[28]: -217194173
+datablocks[29]: -1170135179
+datablocks[30]: 537313424
+datablocks[31]: 21952
+datablocks[32]: 1739452848
+datablocks[33]: 32766
+datablocks[34]: 0
+datablocks[35]: 0
+datablocks[36]: 0
+datablocks[37]: 0
+datablocks[38]: -1754406589
+datablocks[39]: -297949149
+datablocks[40]: -1058283197
+datablocks[41]: -272297559
+datablocks[42]: 0
+datablocks[43]: 0
+datablocks[44]: 0
+datablocks[45]: 0
+datablocks[46]: 0
+datablocks[47]: 0
+datablocks[48]: 1739452872
+datablocks[49]: 32766
+datablocks[50]: 998871440
+datablocks[51]: 32514
+datablocks[52]: 998759001
+datablocks[53]: 32514
+datablocks[54]: 0
+datablocks[55]: 0
+datablocks[56]: 0
+datablocks[57]: 0
+datablocks[58]: 537313424
+datablocks[59]: 21952
+datablocks[60]: 1739452848
+datablocks[61]: 32766
+datablocks[62]: 0
+datablocks[63]: 0
